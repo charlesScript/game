@@ -1,2 +1,2 @@
-# game
+# empty
 little game in python
